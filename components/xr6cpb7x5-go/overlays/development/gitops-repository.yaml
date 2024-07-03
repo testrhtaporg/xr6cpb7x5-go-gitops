@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: xr6cpb7x5-go-gitops-repository
+spec:
+  url: https://github.com/testrhtaporg/xr6cpb7x5-go-gitops
